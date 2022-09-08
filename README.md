@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi, i'm xabr!
+
+- I am working on becoming a programmer with an extensive IT knowledge
+
+So far:
+
+- 04.06.22 Start LeWagon Full-Stack WebDevelopment workshop.
+  -- 17.06.22 End of workshop.
+- What's next?
 
 <!--
 **xabr/xabr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--> 
