@@ -1,4 +1,4 @@
-Hi, i'm xabr!
+Hi, i'm Xaver!
 
 - I am working on becoming a programmer with an extensive IT knowledge
 
