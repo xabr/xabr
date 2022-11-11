@@ -5,7 +5,7 @@ Hi, i'm Xaver!
 So far:
 
 - 04.06.22 Start LeWagon Full-Stack WebDevelopment workshop.
-  -- 17.06.22 End of workshop.
+  -- 17.09.22 End of workshop.
 - What's next?
 
 <!--
